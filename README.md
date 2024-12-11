@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Josh Nguyen
 ## Aspiring Data Scientist | Computer Science Student
 
-I'm studying Computer Science at Milpitas High School, specializing in back-end development and DevOps. I strive to enhance convenience by building projects that solve niche problems. 
+I'm studying Computer Science at Milpitas High School, specializing in machine/deep learning. I strive to enhance convenience by building projects that solve niche problems. 
 
 ### 🔧 Current Projects
 - A full-stack webapp that analyzes one's anxiety levels on a GAD-7 scale based on leading anxiety factors
